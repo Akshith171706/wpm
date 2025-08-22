@@ -1,6 +1,6 @@
 /* GET 'home' page */
 const homelist = (req, res) => {
- res.render('index', { title: 'saii rammmm.....' });
+ res.render('index', { title: 'Community Link Hub' });
 };
 /* GET 'Location info' page */
 const locationInfo = (req, res) => {
